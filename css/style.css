@@ -677,10 +677,9 @@ ul.style3 .first {
 	{
 		position: relative;
 		text-align: center;
-		background: url(../images/banner.png) no-repeat center;
+		background: url(../images/banner.png) no-repeat bottom;
 		background-size: cover;
 	}
-
 
 	#page {
 		padding: 5em 0em;
